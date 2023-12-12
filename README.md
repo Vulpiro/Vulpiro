@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Vulpiro
 - 👀 I’m interested in Game Design, Psychology, Art
-- 🌱 I’m currently learning C++, C#
+- 🌱 I’m currently learning C++, C#, Python
 - 💞️ I’m looking to collaborate on Games
 - 📫 How to reach me you can't i'm too short
 
